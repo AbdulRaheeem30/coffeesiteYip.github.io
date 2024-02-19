@@ -1,0 +1,499 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 150rem;
+}.the-cozy-grind-TGT {
+  width: 100%;
+  height: 397.1rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 126.888% 16.938%;
+  background-position: -15.9573rem 9.2406rem;
+  background-image: url('../assets/the-cozy-grind-bg.png');
+}
+.the-cozy-grind-TGT .rectangle-rT1 {
+  width: 150rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+}
+.the-cozy-grind-TGT .frame-4hV {
+  width: 2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 81.3rem;
+  top: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.the-cozy-grind-TGT .rectangle-yJf {
+  width: 7.8rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 97.2rem;
+  top: 3.3rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.8700000048);
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .rectangle-5cb {
+  width: 9.4rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 106.6rem;
+  top: 3.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .rectangle-n1D {
+  width: 150.285rem;
+  height: 55.0923rem;
+  position: absolute;
+  left: 0;
+  top: 61.1038rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.the-cozy-grind-TGT .rectangle-7JP {
+  width: 11.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 60rem;
+  top: 79.5rem;
+  border: solid 0.1rem #1e3932;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .rectangle-qVH {
+  width: 151rem;
+  height: 52.1rem;
+  position: absolute;
+  left: 0;
+  top: 105.7rem;
+  background-color: #337481;
+}
+.the-cozy-grind-TGT .rectangle-NVD {
+  width: 11.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 148.1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .rectangle-uEF {
+  width: 150rem;
+  height: 52.1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 157.8rem;
+  background-color: #d9edfa;
+}
+.the-cozy-grind-TGT .rectangle-ps1 {
+  width: 11.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 59rem;
+  top: 199.5rem;
+  border: solid 0.1rem #1e3932;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .rectangle-wgj {
+  width: 60rem;
+  height: 52.1rem;
+  position: absolute;
+  left: 77rem;
+  top: 183.9rem;
+  background-color: #337481;
+}
+.the-cozy-grind-TGT .rectangle-UwZ {
+  width: 151.4rem;
+  height: 58.2rem;
+  position: absolute;
+  left: 0;
+  top: 205.3rem;
+  background-color: #000000;
+}
+.the-cozy-grind-TGT .rectangle-1Rh {
+  width: 11.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 255.3rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .rectangle-waF {
+  width: 150rem;
+  height: 34.9rem;
+  position: absolute;
+  left: 0;
+  top: 263.5rem;
+  background-color: #f1efeb;
+}
+.the-cozy-grind-TGT .rectangle-6CF {
+  width: 150rem;
+  height: 35.1rem;
+  position: absolute;
+  left: 59rem;
+  top: 263.5rem;
+  background-color: #006241;
+}
+.the-cozy-grind-TGT .rectangle-EpF {
+  width: 12.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 61rem;
+  top: 292rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.the-cozy-grind-TGT .menu-MP5 {
+  width: 4.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .rewards-zgw {
+  width: 7.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 3.7rem;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .types-of-coffees-Hg3 {
+  width: 13.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 44.8rem;
+  top: 3.7rem;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.6153846154;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .find-a-store-ZdZ {
+  width: 7.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 83.9rem;
+  top: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: 0.016rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .sign-in-fAo {
+  width: 4.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 99.05rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.016rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .join-now-ANT {
+  width: 5.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 108.55rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .feelz-like-heaven-f4K {
+  width: 73.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 43.85rem;
+  top: 63.7rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.75;
+  letter-spacing: 0.016rem;
+  color: #000000;
+  font-family: Bevan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .order-now-k5m {
+  width: 7.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 62.2888rem;
+  top: 80.5208rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  letter-spacing: 0.016rem;
+  color: #1e3932;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .top-level-luxurious-prK {
+  width: 58.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 45rem;
+  top: 114.6rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Bevan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .velvety-smooth-deliciously-lush-try-the-new-oleato-golden-foam-iced-shaken-espresso-with-toffeenut-and-the-oleato-caff-latte-with-oatmilk-usm {
+  width: 118.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 12.85rem;
+  top: 130.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.the-cozy-grind-TGT .order-now-uWP {
+  width: 7.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 59.35rem;
+  top: 148.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .savory-and-satisfying-CkP {
+  width: 65.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 37.35rem;
+  top: 173.4rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Bevan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .grab-a-subtly-sweet-chicken-maple-butter-egg-sandwich-on-the-way-VjV {
+  width: 75.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 31.55rem;
+  top: 188.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.016rem;
+  color: #1e3932;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .order-now-xd5 {
+  width: 7.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 61.55rem;
+  top: 200.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.016rem;
+  color: #1e3932;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .protein-packed-goodness-G7y {
+  width: 61rem;
+  height: 6rem;
+  position: absolute;
+  left: 38.95rem;
+  top: 225.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Bevan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .enjoy-the-fluffy-egg-white-roasted-red-pepper-egg-bites-and-bacon-gruyre-egg-bites-both-300-calories-or-less-ZMy {
+  width: 115rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 240rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.the-cozy-grind-TGT .order-now-c5M {
+  width: 7.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 57.35rem;
+  top: 256.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .a-smile-makes-a-big-difference-uaF {
+  width: 59.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 42.15rem;
+  top: 280.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 0.9;
+  letter-spacing: 0.016rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .learn-more-bhy {
+  width: 7.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 63.25rem;
+  top: 292.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  letter-spacing: 0.016rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .if-this-is-coffee-please-bring-me-some-tea-but-if-this-is-tea-please-bring-me-some-coffee-Wa3 {
+  width: 64.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 41rem;
+  top: 91.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  letter-spacing: 0.016rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.the-cozy-grind-TGT .ellipse-1-A8o {
+  width: 9.858rem;
+  height: 9.9488rem;
+  position: absolute;
+  left: 3.09rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.the-cozy-grind-TGT .trans-1-tqV {
+  width: 27.9rem;
+  height: 42rem;
+  position: absolute;
+  left: 63.5rem;
+  top: 13.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.the-cozy-grind-TGT .the-cozy-grind-TGT-bg {
+  width: 150rem;
+  height: 397.1rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:b23d7657a4677a771469806013938b77c4c07615');
+}
